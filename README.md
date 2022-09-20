@@ -6,11 +6,11 @@ I'm learning, experimenting, and working with web technologies since the early 2
 
 🧑‍🏫 I'm also teaching *Interaction Design*, *Usability Engineering*, and *Interactive Data Visualization with D3* at the [University of Applied Sciences](https://www.fh-ooe.at/en/hagenberg-campus/) in Hagenberg, Austria. I enjoy well designed products that are easy to use and data visualization that scales.  
 
-👨‍🎓 I finished my PhD at the [Institute for Computer Graphics](https://www.jku.at/en/institute-of-computer-graphics/) at [Johannes Kepler University](https://www.jku.at/en/) in 2019. My scientific areas of interest include visualization and visual analytics of multi-attribute and temporal data. I'm still co-authoring papers with other researchers from academia on projects to create new visualization and visual analytics approaches that can improve our products in a later stage. You can find a list of my publications on [my Google Scholar profile](https://scholar.google.at/citations?user=mqn0XvQAAAAJ).
+👨‍🎓 I finished my PhD at the [Institute for Computer Graphics](https://www.jku.at/en/institute-of-computer-graphics/) at [Johannes Kepler University](https://www.jku.at/en/) in 2019. My scientific areas of interest include visualization and visual analytics of multi-attribute and temporal data. I'm still [co-authoring papers](https://jku-vds-lab.at/persons/stitz/) with other researchers from academia on projects to create new visualization and visual analytics approaches that can improve our products in a later stage. You can find a list of my publications on [my Google Scholar profile](https://scholar.google.at/citations?user=mqn0XvQAAAAJ).
 
 <!-- Prior to this, I did my Master of Science with the focus on web technologies in [Interactive Media at the University of Applied Sciences](https://www.fh-ooe.at/en/hagenberg-campus/studiengaenge/master/interactive-media/). -->
 
-If you would like to know more about me and my work, take a look around here on GitHub or connect with me on [LinkedIn](https://www.linkedin.com/in/holger-stitz-aaa7b3129/) or [Twitter](twitter.com/holgerstitz).
+If you would like to know more about me and my work, take a look around here on GitHub or connect with me on [LinkedIn](https://www.linkedin.com/in/holger-stitz-aaa7b3129/) or [Twitter](https://twitter.com/holgerstitz).
 
 
 <!--
