@@ -2,7 +2,7 @@
 
 I'm learning, experimenting, and working with web technologies since the early 2000s.
 
-🧑‍💻 Currently, I'm Lead Researcher and Software Engineer at [datavisyn](https://datavisyn.io/). Together with my team I develop novel visual analysis tools for cancer research, drug discovery, and other application areas using web technologies and frameworks such as [React](https://reactjs.org/), [Redux](https://redux-toolkit.js.org/), and [Fast API](https://fastapi.tiangolo.com/). 
+🧑‍💻 Currently, I'm a Product Development Lead at [datavisyn](https://datavisyn.io/). We develop novel visual analytics platforms for industry-leading pharma and biotech companies using web technologies and frameworks such as [React](https://reactjs.org/), [Redux](https://redux-toolkit.js.org/), and [Fast API](https://fastapi.tiangolo.com/). 
 
 🧑‍🏫 I'm also teaching *Interaction Design*, *Usability Engineering*, and *Interactive Data Visualization with D3* at the [University of Applied Sciences](https://www.fh-ooe.at/en/hagenberg-campus/) in Hagenberg, Austria. I enjoy well designed products that are easy to use and data visualization that scales.  
 
